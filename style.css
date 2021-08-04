@@ -1,0 +1,35 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+    padding: 0%;
+}
+.head {
+    font-size: 3em;
+    text-align: center;
+    margin: 0%;
+    padding: 20px;
+    background-color: turquoise;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.div {
+    text-align: center;
+}
+#searching_word, #search_button {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.4rem;
+}
+.meaning {
+    font-size: 1.5em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px;
+    padding:30px;
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
